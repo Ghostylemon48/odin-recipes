@@ -12,3 +12,5 @@ Throughout this project I will be testing my HTML skills. Here's a list of the k
 - Provide safe and secure hyperlinks outside of the website if necessary.
 - Include hyperlinks to various pages within the website
 - Include images with relevant 'alt' text
+
+Need to work on my commit messages. Need to work on when to commit as well.
