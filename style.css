@@ -18,25 +18,26 @@ h1 {
     padding-top: 30px;
     padding-bottom: 10px;
     padding-left: 10px;
-    color: rgb(240, 239, 222)
+    color: rgb(240, 239, 222);
+    border-bottom: 2px solid black;
     
 }
 
 .images{
-    display: inline-block;
+    /* display: inline-block; */
     width: 980px;
     margin: 0 auto;
-    padding-inline: 30px;
+    /* padding-inline: 30px;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 50px; */
     
 }
 
 .links{
-    display: inline-block;
+    /* display: inline-block; */
     width: 980px;
     margin: 0 auto;
-    margin-left: 150px;
+    /* margin-left: 150px; */
 }
 
 .images #image1,
@@ -51,7 +52,7 @@ h1 {
 .links #link1,
 .links #link2,
 .links #link3{
-    display: inline-block;
+    /* display: inline-block; */
     font-size: 25px;
 }
 
@@ -62,4 +63,8 @@ h1 {
 
 .links #link2{
     padding-left: 138px;
+}
+
+.links #link1{
+    padding-left: 100px;
 }
