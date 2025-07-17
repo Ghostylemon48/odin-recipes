@@ -14,7 +14,7 @@ h1 {
     background-color: rgb(69, 180, 69);
     margin-top: 0;
     margin-inline: 0;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     padding-top: 30px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -68,3 +68,4 @@ h1 {
 .links #link1{
     padding-left: 100px;
 }
+
